@@ -932,6 +932,7 @@ button {
   }
   .tc-clients__left {
     width: 100%;
+    padding-left: 0;
   }
   .tc-clients__right {
     width: 100%;
